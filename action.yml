@@ -1,6 +1,6 @@
-name: 'ESLint Plus'
+name: 'ESLint Plus 2'
 description: 'Runs ESLint against changed files with customization, issue commenting, and more'
-author: 'Braden R. Napier'
+author: 'Braden R. Napier & Zach Whitehead'
 branding: 
   icon: 'code'
   color: 'red'
